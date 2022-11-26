@@ -236,11 +236,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1668776238,
-        "narHash": "sha256-T6Z+7XXHNRePZzApXyMlSvaX5aNnfazDCrKaJP6GJ6Y=",
+        "lastModified": 1669431482,
+        "narHash": "sha256-JS8ZIPyGkC7kpdGR8khOGA/QiqLIKi6hcfmqCl2iTvI=",
         "owner": "nim-nix-pkgs",
         "repo": "zigcc",
-        "rev": "435562a165f430979c0cd4e6d9fd9bbde0bd7e59",
+        "rev": "a2d18e820e4be075fecac89746f8cdfb029e0377",
         "type": "github"
       },
       "original": {
